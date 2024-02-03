@@ -1,5 +1,5 @@
 # Movie_Recommendation_System_Content_Based
-Movie Recommendation System Content Based Engineering Hub
+Movie Recommendation System Content Based Engineering Hub Project
 
 
 ### Technology Used
